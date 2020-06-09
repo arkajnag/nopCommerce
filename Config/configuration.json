@@ -1,0 +1,14 @@
+{
+   "BASE_URL": "https://demo.nopcommerce.com/",
+   "LAUNCH_PAGE_TITLE": "nopCommerce demo store",
+   "REGISTER_PAGE_TITLE": "nopCommerce demo store. Register",
+   "SEARCH_PAGE_TITLE": "nopCommerce demo store. Search",
+   "NO_SEARCH_RESULT_MSG": "No products were found that matched your criteria.",
+   "FIREFOX_EXE_PATH": "../../Resources/geckodriver.exe",
+   "DB_HOST": "localhost",
+   "DB_USER": "arkajnag",
+   "DB_PASSWORD": "password123",
+   "DB_PORT": 3306,
+   "DB_NAME": "nopCommerceDB",
+   "REGISTRATION_SUCCESS_MESSAGE": "Your registration completed"
+}
